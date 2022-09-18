@@ -123,3 +123,31 @@
     text-decoration: solid;
     text-decoration-color:hotpink;
     }
+#singers {
+    margin-top: 10px;
+    margin-left:15px;
+    border:5px solid brown;
+    border-collapse: separate;
+    box-sizing:border-box;
+    }
+#singers th{
+    color:red;
+    text-align: center;
+    padding:20px;
+    border:5px solid darkgray;
+    }
+#singers td{
+    color:darkgreen;
+    text-align: center;
+    padding: 25px;
+    border-bottom: 10px;
+    }
+#singers th {
+    background-color:gold;
+    }  
+#singers tr:nth-child(even){
+    background-color:aquamarine;
+}
+#singers tr:nth-child(odd){
+    background-color:cornsilk;
+    }
