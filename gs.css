@@ -44,6 +44,12 @@
     font-size: 25px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+.MAR_GIU:hover {
+    color: black;
+    background-color:aqua;
+    text-shadow: 5px 5px 3px red;
+    display: inline;
+}
 .DUET_GIU_CHORUS_GIRLS{
     color:darksalmon;
     font-size: 25px;
@@ -53,6 +59,12 @@
     color:darkmagenta;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.GIRLS:hover{
+    color: black;
+    background-color:aquamarine;
+    text-shadow: 5px 5px 3px brown;
+    display: inline;
 }
 .speech{
     color:black;
