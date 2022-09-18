@@ -1,0 +1,125 @@
+.act{
+    color:navy;
+    }
+.scene{
+    color:darkslateblue;
+}
+.direction{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    background-color:chartreuse;
+    }
+.direction:hover{
+    color:rebeccapurple;
+    background-color:lightcoral;
+    }
+.chorus{
+    color:darkcyan;
+    font-size: 25px;;
+    font-family:'Courier New', Courier, monospace;
+    }
+.chorus girls {
+    color:darkgreen;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+.FIA{
+    color:darkblue;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    }
+.SOLI{
+    color:bisque;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.FRANC{
+    color: darkgoldenrod;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.MAR_GIU{
+    color:darkolivegreen;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.DUET_GIU_CHORUS_GIRLS{
+    color:darksalmon;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.GIRLS{
+    color:darkmagenta;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.speech{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    text-decoration: solid;
+    }
+.speech1{
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    text-decoration: solid;
+    }
+.speech2{
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+    text-decoration: solid;
+    }
+.speech3 {
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+}
+.speech4{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: solid;
+}
+.MAR_GIU_speech{
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+}
+.GIRLS_speech{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+}
+.song-title{
+    color: chartreuse;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-decoration: solid;
+}
+.song1{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: solid;
+    text-decoration-color: cornflowerblue;
+    }
+.song2{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+    text-decoration-color:blue;
+    }
+.song3{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+    text-decoration-color:hotpink;
+    }
